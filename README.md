@@ -20,7 +20,7 @@
 
 ```bash
 
-git clone https://github.com/universal-developer/Colors-WebPage
+git clone https://github.com/universal-developer/React-JS-Data-Finances-Webpage
 
 cd Colors Webpage
 
